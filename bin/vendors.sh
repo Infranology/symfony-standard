@@ -49,7 +49,7 @@ install_git()
 install_git assetic http://github.com/kriswallsmith/assetic.git
 
 # Symfony
-install_git symfony http://github.com/symfony/symfony.git #v$VERSION
+install_git symfony http://github.com/symfony/symfony.git
 
 # Doctrine ORM
 install_git doctrine http://github.com/doctrine/doctrine2.git 2.0.4
